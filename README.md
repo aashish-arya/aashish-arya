@@ -43,7 +43,7 @@
 
 <div align="center">
 
-**MERN Stack Developer** with **1.4 years of professional experience** building **full-stack web applications**. Skilled in **React.js, Node.js, Express.js, and MongoDB**. Expert in **JWT authentication, protected routes, and REST APIs**. Experienced in **responsive UIs** using **Tailwind CSS, Material UI, and Framer Motion**, with proficiency in **Git workflows, API integration, and deployment** on **Vercel & Render**.
+**MERN Stack Developer** with **2 years of professional experience** building **full-stack web applications**. Skilled in **React.js, Node.js, Express.js, and MongoDB**. Expert in **JWT authentication, protected routes, and REST APIs**. Experienced in **responsive UIs** using **Tailwind CSS, Material UI, and Framer Motion**, with proficiency in **Git workflows, API integration, and deployment** on **Vercel & Render**.
 
 </div>
 
